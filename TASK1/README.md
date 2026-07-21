@@ -33,15 +33,15 @@ This column represents the average user rating given to an app on the Google Pla
 
 Some of the important features for this problem include:
 
-* `Category` – Type of application
-* `Reviews` – Number of user reviews
-* `Installs` – Total number of downloads
-* `Size` – App size
-* `Type` – Free or Paid
-* `Price` – Price of the app
-* `Content Rating` – Target audience
-* `Genres` – App genre
-* `Last Updated` – Date of the latest update
+* Category – Type of application
+* Reviews – Number of user reviews
+* Installs – Total number of downloads
+* Size – App size
+* Type – Free or Paid
+* Price – Price of the app
+* Content Rating – Target audience
+* Genres – App genre
+* Last Updated – Date of the latest update
 
 These features can help explain the factors that influence user ratings.
 
