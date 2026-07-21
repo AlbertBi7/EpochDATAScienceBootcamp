@@ -43,8 +43,6 @@ Some of the important features for this problem include:
 * Genres – App genre
 * Last Updated – Date of the latest update
 
-These features can help explain the factors that influence user ratings.
-
 ---
 
 ## Key Observations
