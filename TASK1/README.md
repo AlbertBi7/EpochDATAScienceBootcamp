@@ -1,11 +1,10 @@
-# Google Play Store Apps - Dataset Exploration & Problem Framing
+# Google Play Store Apps
 
 ## Dataset Overview
 
 **Dataset Link:** https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
-This dataset contains information about thousands of applications available on the Google Play Store. It includes details such as the app category, rating, number of installs, reviews, size, content rating, pricing, and more. The dataset provides a good opportunity to understand what factors contribute to an app's popularity and success.
-
+This dataset contains information about thousands of applications available on the Google Play Store. It includes details such as the app category, rating, number of installs, reviews, size, content rating, pricing, and more.
 ---
 
 ## Business Problem
